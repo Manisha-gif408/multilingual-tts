@@ -1,0 +1,7 @@
+{
+  "name": "GlobalVoice Multilingual TTS",
+  "description": "A modern AI-powered platform for converting text to high-quality multilingual speech using Gemini 2.5 TTS.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
